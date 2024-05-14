@@ -25,8 +25,8 @@ export function getDefaultServerMeta(id: string, version: string, options?: Serv
             version: options?.version ?? '1.0.0',
             name: `${id} (Minecraft ${version})`,
             description: `${id} Running Minecraft ${version}`,
-            icon: 'How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon',
-            address: 'localhost:25565',
+            icon: 'https://kginfoservs.com/launcher/logo.png',
+            address: 'bedrock.kginfoservs.com:25565',
             discord: {
                 shortId: '<FILL IN OR REMOVE DISCORD OBJECT>',
                 largeImageText: '<FILL IN OR REMOVE DISCORD OBJECT>',

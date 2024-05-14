@@ -17,7 +17,7 @@ export function getDefaultDistroMeta(): DistroMeta {
     return {
 
         meta: {
-            rss: '<LINK TO RSS FEED>',
+            rss: 'https://kginfoservs.com/api/rss',
             discord: {
                 clientId: '<FILL IN OR REMOVE DISCORD OBJECT>',
                 smallImageText: '<FILL IN OR REMOVE DISCORD OBJECT>',
