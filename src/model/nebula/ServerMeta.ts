@@ -25,14 +25,14 @@ export function getDefaultServerMeta(id: string, version: string, options?: Serv
             version: options?.version ?? '1.0.0',
             name: `${id} (Minecraft ${version})`,
             description: `${id} Running Minecraft ${version}`,
-            icon: 'https://kginfoservs.com/launcher/logo.png',
+            icon: 'https://launcher.kginfoservs.com/logo.png',
             address: 'bedrock.kginfoservs.com:25565',
             discord: {
-                shortId: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                largeImageText: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                largeImageKey: '<FILL IN OR REMOVE DISCORD OBJECT>'
+                shortId: '688153149839638544',
+                largeImageText: 'Joue sur KGInfoServs',
+                largeImageKey: 'logonewrondpng'
             },
-            mainServer: false,
+            mainServer: true,
             autoconnect: false
         }
     }
