@@ -19,9 +19,9 @@ export function getDefaultDistroMeta(): DistroMeta {
         meta: {
             rss: 'https://kginfoservs.com/api/rss',
             discord: {
-                clientId: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                smallImageText: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                smallImageKey: '<FILL IN OR REMOVE DISCORD OBJECT>'
+                clientId: '688153149839638544',
+                smallImageText: 'Joue Sur KGInfoServs',
+                smallImageKey: 'logonewrondpng'
             }
         }
         
