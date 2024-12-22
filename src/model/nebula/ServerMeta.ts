@@ -28,7 +28,7 @@ export function getDefaultServerMeta(id: string, version: string, options?: Serv
             icon: 'https://launcher.kginfoservs.com/logo.png',
             address: 'bedrock.kginfoservs.com:25565',
             discord: {
-                shortId: '688153149839638544',
+                shortId: 'play.kginfoservs.com',
                 largeImageText: 'Joue sur KGInfoServs',
                 largeImageKey: 'logonewrondpng'
             },
